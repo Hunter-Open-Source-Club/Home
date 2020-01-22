@@ -14,7 +14,7 @@ But we don't want to stop there. We want to...
 * learn about development tools to make your life easier
 * get you into a Top-N company (tech interviews, winning projects)
 
-But we can't do it without you.
+That's the promise of the club, but we need you to make it happen.
 
 ## Connect
 
