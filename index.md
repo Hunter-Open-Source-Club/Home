@@ -4,9 +4,7 @@ Hosted site and (currently bare-bones) homepage of the club.
 
 ## TL;DR.
 
-Everyone knows that it's good to have open source projects on your resume, and we know it's hard to build a complete project at a hackathon and flesh it out. Heck, we know it's hard to even organize a team to go to a hackathon when everyone has different academic contraints.
-
-That's where OSC comes in. We're a direct democracy hoping to bring industry skills into the doors of Hunter. We hope to give you a platform, help them find a team, and help you see your projects through completion. 
+We're a direct democracy hoping to bring industry skills into the doors of Hunter.
 
 But we don't want to stop there. We want to...
 
@@ -20,11 +18,34 @@ That's the promise of the club, but we need you to make it happen.
 
 * [GitHub](https://github.com/Hunter-Open-Source-Club)
 * [Facebook](https://www.facebook.com/HunterOSC/)
-* blake@hunterosc.org
+* [President's Inbox](mailto:president@hunterosc.org)
+* [Member Registration](https://forms.gle/AMfuciYbbTW4fpWr6)
 
-## Join
+# What to expect
 
-[4-Question Mailing List / Member Registration](https://forms.gle/AMfuciYbbTW4fpWr6)
+1. Real Projects with community impact.
+   * Build course websites, lead a workshop, make a difference
+
+1. Theory, meet Practice.
+   * Learn a new skill and deploy in the same day
+   * Get help earning your online certificate
+   * Find your ideal workflow
+
+## Past Projects
+
+Cooperman Business Center (Completed)
+
+   * Wordpress, Deployed on AWS <http://cooperman.hunterosc.org>
+
+Pre-Discrete Workshop (Completed)
+
+   * Open Educational Resources
+   * GH Pages <http://csci150.hunterosc.org>
+   
+Tech Intern Workshop (Completed)
+
+  * Tech interns speak about what to expect from an internship
+  * Learn the tech resume content and presentation
 
 ## On the Horizon
 
