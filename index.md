@@ -4,11 +4,10 @@ Hosted site and (currently bare-bones) homepage of the club.
 
 We're a direct democracy bridging the gap between academia and the tech world.
 
-# [ ![Join our Discord](https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg)](https://discord.gg/VzZHsXr)
+# Comms 
+[![Join our Discord](https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg)](https://discord.gg/VzZHsXr)
 
-500 members strong, `#algorithms-study-group` and `#resume-review` among the many channels [click here to join](https://discord.gg/VzZHsXr).
-
-## Connect
+500 members strong, `#algorithms-study-group` and `#resume-review` among the many channels [join the Intern Grind Discord](https://discord.gg/VzZHsXr).
 
 * [GitHub](https://github.com/Hunter-Open-Source-Club)
 * [Facebook](https://www.facebook.com/HunterOSC/)
