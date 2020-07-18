@@ -4,25 +4,15 @@ Hosted site and (currently bare-bones) homepage of the club.
 
 We're a direct democracy bridging the gap between academia and the tech world.
 
-# [Join us on Discord](https://discord.gg/VzZHsXr)
+# [ ![Join our Discord](https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg)](https://discord.gg/VzZHsXr)
 
-500 members strong, `#algorithms-study-group` and `#resume-review` among the many channels
+500 members strong, `#algorithms-study-group` and `#resume-review` among the many channels [click here to join](https://discord.gg/VzZHsXr).
 
 ## Connect
 
 * [GitHub](https://github.com/Hunter-Open-Source-Club)
 * [Facebook](https://www.facebook.com/HunterOSC/)
 * [Member Registration](https://forms.gle/AMfuciYbbTW4fpWr6)
-
-# What to expect
-
-1. Real Projects with community impact.
-   * Build course websites, lead a workshop, make a difference
-
-1. Theory, meet Practice.
-   * Learn a new skill and deploy in the same day
-   * Get help earning your online certificate
-   * Find your ideal workflow
 
 ## Past Projects
 
