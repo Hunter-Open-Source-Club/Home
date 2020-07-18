@@ -1,24 +1,17 @@
-# Home
+# Open Source Club
 
 Hosted site and (currently bare-bones) homepage of the club.
 
-## TL;DR.
+We're a direct democracy bridging the gap between academia and the tech world.
 
-We're a direct democracy hoping to bring industry skills into the doors of Hunter.
+# [Join us on Discord](https://discord.gg/VzZHsXr)
 
-But we don't want to stop there. We want to...
-
-* help you build a rich industry-facing skill set
-* learn about development tools to make your life easier
-* get you into a Top-N company (tech interviews, winning projects)
-
-That's the promise of the club, but we need you to make it happen.
+500 members strong, `#algorithms-study-group` and `#resume-review` among the many channels
 
 ## Connect
 
 * [GitHub](https://github.com/Hunter-Open-Source-Club)
 * [Facebook](https://www.facebook.com/HunterOSC/)
-* [President's Inbox](mailto:president@hunterosc.org)
 * [Member Registration](https://forms.gle/AMfuciYbbTW4fpWr6)
 
 # What to expect
@@ -33,20 +26,10 @@ That's the promise of the club, but we need you to make it happen.
 
 ## Past Projects
 
-Cooperman Business Center (Completed)
+| Project | Stack | Link|
+|----|----|----|
+| Cooperman Business Center | Wordpress, on AWS |  <http://cooperman.hunterosc.org> |
+| Pre-Discrete Workshop |  GH Pages | <http://csci150.hunterosc.org> |
+| 135 Site Mock-up | Jekyll, on GH Pages | <https://csci135.hunterosc.org> |
 
-   * Wordpress, Deployed on AWS <http://cooperman.hunterosc.org>
 
-Pre-Discrete Workshop (Completed)
-
-   * Open Educational Resources
-   * GH Pages <http://csci150.hunterosc.org>
-   
-Tech Intern Workshop (Completed)
-
-  * Tech interns speak about what to expect from an internship
-  * Learn the tech resume content and presentation
-
-## On the Horizon
-
-[Planning Board](https://github.com/orgs/Hunter-Open-Source-Club/projects/2)
