@@ -11,7 +11,7 @@ We're a direct democracy bridging the gap between academia and the tech world.
 
 * [GitHub](https://github.com/Hunter-Open-Source-Club)
 * [Facebook](https://www.facebook.com/HunterOSC/)
-* [Member Registration](https://forms.gle/AMfuciYbbTW4fpWr6)
+* [Mailing List](https://forms.gle/AMfuciYbbTW4fpWr6)
 
 ## Past Projects
 
