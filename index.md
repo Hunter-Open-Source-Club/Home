@@ -9,6 +9,7 @@ We're a direct democracy bridging the gap between academia and the tech world.
 
 500 members strong, `#algorithms-study-group` and `#resume-review` among the many channels [join the Intern Grind Discord](https://discord.gg/VzZHsXr).
 
+* <code@hunterosc.org>
 * [GitHub](https://github.com/Hunter-Open-Source-Club)
 * [Facebook](https://www.facebook.com/HunterOSC/)
 * [Mailing List](https://forms.gle/AMfuciYbbTW4fpWr6)
